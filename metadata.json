@@ -1,0 +1,6 @@
+{
+  "name": "App4App - One App for All Appointment",
+  "description": "App4App - One App for All Appointment. Multi-domain appointment platform connecting customers, businesses, VIPs, and celebrities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
